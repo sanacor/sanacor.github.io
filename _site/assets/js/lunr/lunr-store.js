@@ -402,8 +402,8 @@ var store = [{
         "teaser": null
       },{
         "title": "OAuth2.0",
-        "excerpt":"OAuth2.0은 authorization(클라이언트에게 권한부여)를 위한 표준이며 web, desktop, mobile application에 해당하는 클라이언트가 보다 간편한 authorization 작업 수행하는 것을 목적으로 합니다. OAuth2.0은 authentication(클라이언트가 자신이 주장하는 사용자와 같은 사용자인지를 확인)를 담당하지 않으며 authentication 대체로 HTTPS를 통해 이뤄집니다. 언제 OAuth2.0을 사용하게 될까요? 첫번째, 사용자에게 얻고자 하는 데이터를 가진 서비스가 있고 그 서비스가 OAuth2.0 기반의...","categories": ["Edge Case"],
-        "tags": ["OAuth2.0","인증","인가","lists","markup"],
-        "url": "http://localhost:4000/edge%20case/OAuth2.0/",
+        "excerpt":"OAuth2.0은 authorization(클라이언트에게 권한부여)를 위한 표준이며 web, desktop, mobile application에 해당하는 클라이언트가 보다 간편한 authorization 작업 수행하는 것을 목적으로 합니다. OAuth2.0은 authentication(클라이언트가 자신이 주장하는 사용자와 같은 사용자인지를 확인)를 담당하지 않으며 authentication 대체로 HTTPS를 통해 이뤄집니다. 언제 OAuth2.0을 사용하게 될까요? 첫번째, 사용자에게 얻고자 하는 데이터를 가진 서비스가 있고 그 서비스가 OAuth2.0 기반의...","categories": ["Common"],
+        "tags": ["OAuth2.0","인증","인가","access token","authorization"],
+        "url": "http://localhost:4000/common/OAuth2.0/",
         "teaser": null
       }]

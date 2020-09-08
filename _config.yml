@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "코딩하고 영어하고"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "sana"
+name                     : "도순이"
 description              : "설명"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -93,9 +93,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "sana"
+  name             : "도순이"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an software developer"
+  bio              : "software developer"
   location         : "South Korea"
   email            : "ncsana@gmail.com"
   links:
